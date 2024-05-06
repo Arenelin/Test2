@@ -11,6 +11,7 @@ function App() {
           Edit <code>src/App.tsx</code> and save to reload. New description.
         </p>
       </header>
+        <h1>New title</h1>
     </div>
   );
 }
