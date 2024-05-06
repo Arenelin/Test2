@@ -12,6 +12,7 @@ function App() {
         </p>
       </header>
         <h1>New title</h1>
+        <div>new header</div>
     </div>
   );
 }
