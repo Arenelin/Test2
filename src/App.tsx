@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
         <div>new header version 2</div>
-        <div>new header version 3</div>
+        <div>new changes from main header version 3</div>
     </div>
   );
 }
