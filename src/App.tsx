@@ -12,6 +12,25 @@ function App() {
         </p>
       </header>
         <h1>New title</h1>
+        <h1>New title</h1>
+        <h1>New title</h1>
+        <h1>New title</h1>
+        <h1>New title</h1>
+        <h1>New title</h1>
+        <h1>New title</h1>
+        <h1>New title</h1>
+        <h1>New title</h1>
+        <h1>New title</h1>
+        <h1>New title</h1>
+        <h1>New title</h1>
+        <h1>New title</h1>
+        <h1>New title</h1>
+        <h1>New title</h1>
+        <h1>New title</h1>
+        <h1>New title</h1>
+        <h1>New title</h1>
+        <h1>New title</h1>
+        <h1>New title</h1>
         <div>new header</div>
         <div>new header version 2</div>
         <div>new header version 3</div>
